@@ -1,4 +1,4 @@
-# Welcome to Software Development Cell - Github
+# Software Development Cell - USAR
 
 Welcome to the Software Development Cell (SDC) of Guru Gobind Singh Indraprastha University (GGSIPU) - UNIVERSITY SCHOOL OF AUTOMATION AND ROBOTICS (USAR)!
 
